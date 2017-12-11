@@ -1,0 +1,26 @@
+NLP to perform:
+
+I work in similar domain, here are few topics I like -
+
+1. Sentiment analysis for twitter, web articles - Identify over all sentiment for web articles, product review, movie review, tweets. Lexical based approach or machine learning techniques can be used
+
+2. Web article classification/summarization - Use clustering/classification technique to classify the web article, perform semantics analysis to summarize the articles
+    
+3. Recommendations system based on user's social media profiles - Use social media API, collects user interest from facebook, twitter etc implement recommendation system for user interest
+
+4.Tweet classification and trend detection - Classify the tweets for sports, business, politics, entertainment etc and detect trending tweets in those domain
+    
+5. Movie Review Prediction - Use online movie reviews to predict reviews of new movies.
+    
+6.Summarize Restaurant Reviews - Take a list of reviews about a restaurant, and generate a single English summary for that restaurant.
+
+7.AutoBot - Build a system that can have a conversation with you. The user types messages, and your system replies based on the user's text. Many approaches here ... you could use a large twitter corpus and do language similarity
+
+8. Twitter based news system - Collect tweets for various categories hourly, daily base, identify trending discussion, perform semantic analysis and create kinda news system (Check Frrole product)
+
+
+
+Interesting dataset
+
+https://www.quora.com/Where-can-I-get-a-data-set-containing-text-of-articles-books-etc
+
